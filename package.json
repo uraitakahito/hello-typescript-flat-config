@@ -15,5 +15,8 @@
     "url": "https://github.com/uraitakahito/hello-typescript-flat-config/issues"
   },
   "homepage": "https://github.com/uraitakahito/hello-typescript-flat-config#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
 }
