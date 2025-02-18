@@ -17,7 +17,9 @@
   "homepage": "https://github.com/uraitakahito/hello-typescript-flat-config#readme",
   "description": "",
   "devDependencies": {
-    "typescript": "^5.7.3"
+    "eslint": "^9.20.1",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.24.1"
   },
   "dependencies": {
     "@uraitakahito/hello-commonjs": "^1.0.8",
