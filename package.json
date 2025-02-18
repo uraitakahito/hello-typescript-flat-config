@@ -1,0 +1,19 @@
+{
+  "name": "hello-typescript-flat-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uraitakahito/hello-typescript-flat-config.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/uraitakahito/hello-typescript-flat-config/issues"
+  },
+  "homepage": "https://github.com/uraitakahito/hello-typescript-flat-config#readme",
+  "description": ""
+}
